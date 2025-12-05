@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "every_algorithm_and_DS"
+name = "every_algorithm_and_ds"
 version = "0.1.0"
